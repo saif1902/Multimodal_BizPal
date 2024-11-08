@@ -1,0 +1,16 @@
+ffmpeg-python
+yt_dlp
+openai-whisper
+pdfminer.six
+pillow-heif
+matplotlib
+tesseract-ocr
+unstructured-inference
+unstructured-pytesseract
+pi-heif
+unstructured
+langchain-core
+langchain-openai
+weaviate-client
+openai
+textwrap3
